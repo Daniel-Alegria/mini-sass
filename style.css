@@ -1,68 +1,16 @@
 /*One*/
 
 .testOne {
-  color: $var1;
+  color: green;
 }
-/*One*/
-
-.testOne {
-  color: $var1;
-}
-/*One*/
-
-.testOne {
-  color: $var1;
-}
-/*One*/
-
-.testOne {
-  color: $var1;
-}
-
 /*Three*/
 
 .testThree {
-  color: $var3;
+  color: red;
 }
 
 /*Two*/
 
 .testTwo {
-  color: $var2;
-}
-
-/*Three*/
-
-.testThree {
-  color: $var3;
-}
-
-/*Two*/
-
-.testTwo {
-  color: $var2;
-}
-
-/*Three*/
-
-.testThree {
-  color: $var3;
-}
-
-/*Two*/
-
-.testTwo {
-  color: $var2;
-}
-
-/*Three*/
-
-.testThree {
-  color: $var3;
-}
-
-/*Two*/
-
-.testTwo {
-  color: $var2;
+  color: magenta;
 }

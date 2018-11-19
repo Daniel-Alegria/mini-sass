@@ -11,6 +11,7 @@
   "dependencies": {
     "concat": "^1.0.3",
     "fs": "^0.0.1-security",
+    "fs-extra": "^7.0.1",
     "path": "^0.12.7",
     "replace-in-file": "^3.4.2"
   }
